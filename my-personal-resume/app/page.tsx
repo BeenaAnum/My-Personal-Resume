@@ -120,6 +120,7 @@ export default function Resume() {
           <p>Email: <b><a href="mailto:beenaanum@gmail.com" target="_blank">beenaanum@gmail.com</a></b></p>
           <p>LinkedIn: <b><a href="https://www.linkedin.com/in/beena-anum-2b2963254" target="_blank">Beena Anum</a></b></p>
           <p>GitHub: <b><a href="https://github.com/BeenaAnum" target="_blank">Beena Anum</a></b></p>
+          <button><a href="#top">Top of the Resume</a></button>
         </section>
       </div>
     </>
